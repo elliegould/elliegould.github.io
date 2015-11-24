@@ -1,13 +1,13 @@
 .jumbotron h1{
 	text-align: center;
-	color: #330033;
+	color: #eee7ec;
 	font-family: Georgia;
 	padding-top: 110px
 
 }
 
 .jumbotron {
-	background-image : url("http://i66.tinypic.com/33vjjiw.jpg");
+	background-image : url("http://i.imgur.com/eFaotZp.jpg");
 	background-size : cover;
 	background-attachment : fixed ;
 	padding-top: 0px;
